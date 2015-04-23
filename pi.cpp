@@ -1,26 +1,26 @@
 //////////////////////////////////////////////////////////////////////
-//  Robert Kubiś													//
-//																	//
-//  Politechnika Poznańska 2015										//
-//																	//
+//  Robert Kubiś													
+//																	
+//  Politechnika Poznańska 2015										
+//																	
 //////////////////////////////////////////////////////////////////////
 
 
 //////////////////////////////////////////////////////////////////////
-//  URUCHAMIANIE													//
-//																	//
-//  cat run.sh 														//
-//  #! /bin/bash													//
-//  # -g -- debug mode 												//
-//																	//
-//  g++ $1 -fopenmp pi.cpp -o pi.out && ./pi.out 					//
+//  URUCHAMIANIE													
+//																	
+//  cat run.sh 														
+//  #! /bin/bash													
+//  # -g -- debug mode 												
+//																	
+//  g++ $1 -fopenmp pi.cpp -o pi.out && ./pi.out 					
 //////////////////////////////////////////////////////////////////////
 
 
 //////////////////////////////////////////////////////////////////////
-//  Metoda liczenia to metoda calkowania okregu						//
-//																	//
-//  http://pl.wikipedia.org/wiki/OpenMP								//
+//  Metoda liczenia to metoda calkowania okregu						
+//																	
+//  http://pl.wikipedia.org/wiki/OpenMP								
 //////////////////////////////////////////////////////////////////////
 
 
