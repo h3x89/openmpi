@@ -2,7 +2,9 @@
 //  Robert Kubiś													
 //																	
 //  Politechnika Poznańska 2015										
-//																	
+//	
+//  https://github.com/h3x89/openmpi
+//																
 //////////////////////////////////////////////////////////////////////
 
 
